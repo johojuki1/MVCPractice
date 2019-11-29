@@ -18,6 +18,17 @@ namespace MVCPractice
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
+
+            routes.MapRoute(
+                name: "Index",
+                url: "{controller}/{id}",
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+            );
+
+            routes.MapRoute(
+                name: "Hello",
+                url: "{controller}/{action}/{name}/{id}"
+            );
         }
     }
 }

@@ -1,0 +1,4 @@
+C:\Jonathan Projects\MVCPractice\obj\Debug\netcoreapp2.1\MVCPractice.csprojAssemblyReference.cache
+C:\Jonathan Projects\MVCPractice\obj\Debug\netcoreapp2.1\MVCPractice.csproj.CoreCompileInputs.cache
+C:\Jonathan Projects\MVCPractice\obj\Debug\netcoreapp2.1\MVCPractice.AssemblyInfoInputs.cache
+C:\Jonathan Projects\MVCPractice\obj\Debug\netcoreapp2.1\MVCPractice.AssemblyInfo.cs
